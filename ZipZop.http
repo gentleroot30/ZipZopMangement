@@ -1,0 +1,6 @@
+@ZipZop_HostAddress = http://localhost:5002
+
+GET {{ZipZop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
